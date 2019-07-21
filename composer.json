@@ -1,0 +1,19 @@
+{
+    "name": "krodo93/decima-human-resources",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mario Gallegos",
+            "email": "freelance@mariogallegos.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mgallegos\\": "src/Mgallegos/"
+        }
+    },
+    "minimum-stability": "stable"
+}
